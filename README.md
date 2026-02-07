@@ -66,6 +66,7 @@ Critical alerts can be evaluated at the edge layer to minimize latency, while th
   "alert_flag": true,
   "alert_type": "Aeration"
 }
+'''
 
 ## Monitoring and Visualization
 
